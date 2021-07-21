@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273840792006",
+    "project_id": "ocr-fc225",
+    "storage_bucket": "ocr-fc225.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273840792006:android:06d078faf51d6f9a0552c7",
+        "android_client_info": {
+          "package_name": "com.swathi.ocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273840792006-6o20qrp8pcltedj8g6m91sls067bm2hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5QZ-3UND_JJYDNuX8FoxbBuCO4RItago"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273840792006-6o20qrp8pcltedj8g6m91sls067bm2hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
